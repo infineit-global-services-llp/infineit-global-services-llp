@@ -20,7 +20,7 @@ Welcome to the FineOne repository. This project represents our initiative to mod
 For more information about InFineIT Global Services LLP, please visit our website or contact us at:
 
 - **Website:** [www.infineit.in](http://www.infineit.in)
-- **Email:** [dharmesh@infineit.in](mailto:dharmesh@infineit.in)
+- **Email:** [contact@infineit.in](mailto:dharmesh@infineit.in)
 
 
 
